@@ -1,0 +1,9 @@
+﻿生成启动时间为 2019/4/26 12:05:31。
+     1>项目“F:\OpenCV\20190426\20190426\20190426\20190426.vcxproj”在节点 2 上(Clean 个目标)。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : 对路径“F:\OPENCV\20190426\20190426\DEBUG\20190426.EXE”的访问被拒绝。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppClean.targets(75,5): warning : 对路径“F:\OpenCV\20190426\20190426\Debug\20190426.exe”的访问被拒绝。
+     1>已完成生成项目“F:\OpenCV\20190426\20190426\20190426\20190426.vcxproj”(Clean 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.72

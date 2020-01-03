@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/5/5 14:48:27。
+     1>项目“C:\Users\连云鹏\Desktop\20190505\bianyuan\bianyuan\bianyuan.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源4.cpp"
+         源4.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\连云鹏\Desktop\20190505\bianyuan\Debug\bianyuan.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\连云鹏\Desktop\20190505\bianyuan\Debug\bianyuan.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\连云鹏\Desktop\20190505\bianyuan\Debug\bianyuan.lib" /MACHINE:X86 "Debug\源.obj"
+         "Debug\源1.obj"
+         "Debug\源2.obj"
+         "Debug\源3.obj"
+         "Debug\源4.obj"
+         bianyuan.vcxproj -> C:\Users\连云鹏\Desktop\20190505\bianyuan\Debug\bianyuan.exe
+     1>已完成生成项目“C:\Users\连云鹏\Desktop\20190505\bianyuan\bianyuan\bianyuan.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.36
